@@ -1,0 +1,15 @@
+C:\Users\Dariusz\AppData\Local\Temporary Projects\Państwa-miasta\bin\Debug\Państwa-miasta.exe
+C:\Users\Dariusz\AppData\Local\Temporary Projects\Państwa-miasta\bin\Debug\Państwa-miasta.pdb
+C:\Users\Dariusz\AppData\Local\Temporary Projects\Państwa-miasta\obj\x86\Debug\Państwa_miasta.Properties.Resources.resources
+C:\Users\Dariusz\AppData\Local\Temporary Projects\Państwa-miasta\obj\x86\Debug\Państwa-miasta.csproj.GenerateResource.Cache
+C:\Users\Dariusz\AppData\Local\Temporary Projects\Państwa-miasta\obj\x86\Debug\Państwa-miasta.exe
+C:\Users\Dariusz\AppData\Local\Temporary Projects\Państwa-miasta\obj\x86\Debug\Państwa-miasta.pdb
+C:\Users\Dariusz\AppData\Local\Temporary Projects\Państwa-miasta\obj\x86\Debug\Państwa_miasta.Panstwamiasta.resources
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Państwa-miasta\Państwa-miasta\obj\x86\Debug\Państwa-miasta.exe
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Państwa-miasta\Państwa-miasta\obj\x86\Debug\Państwa-miasta.pdb
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Państwa-miasta\Państwa-miasta\bin\Debug\Państwa-miasta.exe
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Państwa-miasta\Państwa-miasta\bin\Debug\Państwa-miasta.pdb
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Państwa-miasta\Państwa-miasta\obj\x86\Debug\Państwa_miasta.Panstwamiasta.resources
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Państwa-miasta\Państwa-miasta\obj\x86\Debug\Państwa_miasta.Properties.Resources.resources
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Państwa-miasta\Państwa-miasta\obj\x86\Debug\Państwa-miasta.csproj.GenerateResource.Cache
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Państwa-miasta\Państwa-miasta\obj\x86\Debug\Państwa_miasta.rules.resources
